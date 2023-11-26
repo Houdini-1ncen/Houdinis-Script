@@ -1,3 +1,89 @@
-# Feature List for Houdinis Script 3.1
+# **Feature List for Houdinis Script 3.1**
 
-
+# Lobby
+  - Let's Sing (choose from 4 songs)
+  - Chat Commands
+    - Print Chat Commands to console
+    - 15 new Chat commands
+    - Choose from 7 different prefixes 
+    - Choose from 3 different response Chats 
+# Vehicle
+  - Anti 9/11 (Spawns a F-160 Raiju with no world collision)
+  - Choose a custom map size while in jets
+  - Remove Opressor mk2 cooldown
+# Teleportation
+  - Bunker teleports
+  - Facility teleprots
+  - Nightclub teleports
+  - Apartment teleports
+  - Business teleports
+  - CEO Office teleprots
+  - Underwater locations
+  - M14 locations
+  - Gunvan locations
+  - Drug Dealer locations
+# Misc
+  - CEO/MC
+    - Automatically become CEO
+    - Automatically become MC President
+  - Cooldown'S
+    - Remove CEO/VIP work cooldown
+    - Remove Dax Work cooldown
+    - Remove Oribtal cannon cooldown Remove CEO Vehicle cooldown
+    - Remove Kosatka Missile cooldown/range
+  - Multiplier's
+    - RP multiplier (1-30)
+    - AP multiplier (1-30)
+  - Money correction
+    - Set overall expenses
+    - Set overall income
+  - Online services
+    - Request service (M.O.C, Avenger, TerrorByte, Kosatka, Dinghy, Acid Lab, Acid Lab Bike, Ballistic equipment, Ammo drop)
+    - Report viewer 
+# Unlocks
+  - Unlock collectibles (permanently and temporarily)
+    - Unlock all
+    - Action figure
+    - LD Organics
+    - Playing Cards
+    - Signal Jammers
+    - Treasure Chests
+    - Snowmen
+    - Buried Stashes
+    - Hidden Caches
+    - Jack o Lantern
+    - Movie props
+  - Unlock vehicle trade prices
+  - Unlock flight school gold medals
+  - Unlock Gunvan guns
+  - Unlock shooting range rewards 
+# Recovery
+  - Nightclub Recovery
+    - Teleport to Nightclub safe
+    - Max Nightclub popularity
+    - Clear Nightclub earnings
+    - AFK Nightclub loop (300k / 4s)
+    - Fast Nightclub loop (300k / 1s)
+    - Max Nightclub payout
+    - Reset Nightclub payout
+  - Business Recovery
+    - Resupplly MC Businesses
+        - Resupply Counterfit Cash Factory
+        - Resupply Cocaine Lockup
+        - Resupply Meth Lab
+        - Resupply Weed Farm
+        - Resupply Document Forgery Office
+    - Resupply Gunrunning Bunker
+  - Warehouse Recovery
+    - Clear Warehouse sells
+    - Clear Warehouse earnings
+    - Bypass cargo buy cooldown
+    - Bypass cargo sell cooldown
+    - Fill cargo warehouse
+    - Auto complete cargo sell mission
+    - Auto start cargo sell mission
+  - Story Mode Recovery
+    - Select Story mode character (Michael, Franklin, Trevor, All) 
+    - Select money amount (0 - 2147483646)
+    - Select loop amount (1 - random)
+    - Money loop 
