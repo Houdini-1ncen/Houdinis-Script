@@ -14,15 +14,64 @@
   - Remove Opressor mk2 cooldown
 # Teleportation
   - Bunker teleports
+    - Zancudo Bunker
+    - Route 68 Bunker
+    - Oilfields Bunker
+    - Desert Bunker
+    - Smoke Tree Bunker
+    - Scrapyard Bunker
+    - Grapeseed Bunker
+    - Paleto Bunker
+    - Route 1 Bunker
+    - Farmhouse Bunker
+    - Raton Canyon Bunker
   - Facility teleprots
+    - Paleto Bay Facility
+    - Mount Gorod Facility
+    - Sandy Shores Facility
+    - Zancudo River Facility
+    - Grand Senora Desert Facility
+    - Lago Zancudo Facility
+    - Route 68 Facility
+    - Ron Alternates Wind Farm Facility
+    - Land Act Reservoir Facility
   - Nightclub teleports
+    - LSIA Nightclub
+    - Cypress Flats Nightclub
+    - Del Perro Nightclub
+    - Elysian Island Nightclub
+    - La Mesa Nightclub
+    - Mission Row Nightclub
+    - Strawberry Nightclub
+    - Vespucci Nightclub
+    - Vinewood Nightclub
+    - Vinewood West Nightclub
   - Apartment teleports
+    - Some GTA:O apartments (IPL's required)
   - Business teleports
+    - Arcade safe
+    - Arcade business monitor
+    - Nightclub office
+    - Meth lab computer
+    - Cocaine lockup computer
+    - Weed farm computer
+    - Counterfeit cash factory computer
+    - Document forgery computer
+    - Gunrunning Bunker computer
+    - Hangar computer
   - CEO Office teleprots
+    - Mazebank tower teleports
+    - Arcadius Business Center teleports
+    - Lom Bank teleports
+    - Mazebank west teleports
   - Underwater locations
+    - Teleports for some neat underwater locations (SP + MP)
   - M14 locations
+    - All 10 possible M14 event locations
   - Gunvan locations
+    - All 30 daily Gunvan locations
   - Drug Dealer locations
+    - All 50 daily Drug Dealer locations
 # Misc
   - CEO/MC
     - Automatically become CEO
