@@ -1,4 +1,4 @@
-# **Feature List for Houdinis Script 3.1**
+# **Feature List for Houdinis Script 3.2**
 
 # Lobby
   - Let's Sing (choose from 4 songs)
