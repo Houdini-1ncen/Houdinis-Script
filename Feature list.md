@@ -4,11 +4,12 @@
   - Let's Sing (choose from 4 songs)
   - Chat Commands
     - Print Chat Commands to console
-    - 15 new Chat commands
-    - Choose from 7 different prefixes 
+    - New Chat commands
+    - Choose from 7 different premade prefixes 
+    - Choose a fully customizeable prefix 
     - Choose from 3 different response Chats 
 # Vehicle
-  - Anti 9/11 (Spawns a F-160 Raiju with no world collision)
+  - No collision jet (Spawns a F-160 Raiju with no world collision)
   - Choose a custom map size while in jets
   - Remove Opressor mk2 cooldown
 # Teleportation
@@ -73,7 +74,11 @@
         - Resupply Meth Lab
         - Resupply Weed Farm
         - Resupply Document Forgery Office
-    - Resupply Gunrunning Bunker
+        - Resupply Gunrunning Bunker
+    - Business Helper
+      - Nightclub Helper
+        - Notify you about your Nightclub
+        - Display and Update Nightclub info  
   - Warehouse Recovery
     - Clear Warehouse sells
     - Clear Warehouse earnings
