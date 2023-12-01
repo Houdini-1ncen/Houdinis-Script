@@ -1,3 +1,3 @@
 # Current latest version of Houdinis Script: 
 
-v3.2
+**v3.2**
