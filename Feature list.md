@@ -82,8 +82,8 @@
     - Remove Oribtal cannon cooldown Remove CEO Vehicle cooldown
     - Remove Kosatka Missile cooldown/range
   - Multiplier's
-    - RP multiplier (1-30)
-    - AP multiplier (1-30)
+    - RP multiplier (1-30x)
+    - AP multiplier (1-30x)
   - Money correction
     - Set overall expenses
     - Set overall income
