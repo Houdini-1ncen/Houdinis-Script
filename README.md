@@ -47,114 +47,114 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 <details>
 <summary>Teleportation</summary>
 
-<details>
-<summary>Bunker teleports</summary>
-  
-  - Zancudo Bunker
-  - Route 68 Bunker
-  - Oilfields Bunker
-  - Desert Bunker
-  - Smoke Tree Bunker
-  - Scrapyard Bunker
-  - Grapeseed Bunker
-  - Paleto Bunker
-  - Route 1 Bunker
-  - Farmhouse Bunker
-  - Raton Canyon Bunker
+  <details>
+  <summary>Bunker teleports</summary>
     
-</details> 
-
-<details>
-<summary>Facility teleports</summary>
-
-  - Paleto Bay Facility
-  - Mount Gorod Facility
-  - Sandy Shores Facility
-  - Zancudo River Facility
-  - Grand Senora Desert Facility
-  - Lago Zancudo Facility
-  - Route 68 Facility
-  - Ron Alternates Wind Farm Facility
-  - Land Act Reservoir Facility
-
-</details> 
-
-<details> 
-<summary>Nightclub teleports</summary>   
-
-  - LSIA Nightclub
-  - Cypress Flats Nightclub
-  - Del Perro Nightclub
-  - Elysian Island Nightclub
-  - La Mesa Nightclub
-  - Mission Row Nightclub
-  - Strawberry Nightclub
-  - Vespucci Nightclub
-  - Vinewood Nightclub
-  - Vinewood West Nightclub
+    - Zancudo Bunker
+    - Route 68 Bunker
+    - Oilfields Bunker
+    - Desert Bunker
+    - Smoke Tree Bunker
+    - Scrapyard Bunker
+    - Grapeseed Bunker
+    - Paleto Bunker
+    - Route 1 Bunker
+    - Farmhouse Bunker
+    - Raton Canyon Bunker
+      
+  </details> 
+  
+  <details>
+  <summary>Facility teleports</summary>
+  
+    - Paleto Bay Facility
+    - Mount Gorod Facility
+    - Sandy Shores Facility
+    - Zancudo River Facility
+    - Grand Senora Desert Facility
+    - Lago Zancudo Facility
+    - Route 68 Facility
+    - Ron Alternates Wind Farm Facility
+    - Land Act Reservoir Facility
+  
+  </details> 
+  
+  <details> 
+  <summary>Nightclub teleports</summary>   
+  
+    - LSIA Nightclub
+    - Cypress Flats Nightclub
+    - Del Perro Nightclub
+    - Elysian Island Nightclub
+    - La Mesa Nightclub
+    - Mission Row Nightclub
+    - Strawberry Nightclub
+    - Vespucci Nightclub
+    - Vinewood Nightclub
+    - Vinewood West Nightclub
+      
+  </details> 
+  
+  <details>
+  <summary>Apartment teleports</summary>
     
-</details> 
-
-<details>
-<summary>Apartment teleports</summary>
+    - Some GTA:O apartments (IPL's required)
   
-  - Some GTA:O apartments (IPL's required)
-
-</details>
-
-<details>
-<summary>Business teleports</summary>
+  </details>
   
-  - Arcade safe
-  - Arcade business monitor
-  - Nightclub office
-  - Meth lab computer
-  - Cocaine lockup computer
-  - Weed farm computer
-  - Counterfeit cash factory computer
-  - Document forgery computer
-  - Gunrunning Bunker computer
-  - Hangar computer
-
-</details>
-
-<details>
-<summary>CEO Office teleprots</summary>
-
-  - Mazebank tower teleports
-  - Arcadius Business Center teleports
-  - Lom Bank teleports
-  - Mazebank west teleports
-
-</details>
-
-<details>
-<summary>Underwater locations</summary>
-
-  - Teleports for some neat underwater locations (SP + MP)
-
-</details>
-
-<details>
-<summary>M14 locations</summary>
-  
-  - All 10 possible M14 event locations
+  <details>
+  <summary>Business teleports</summary>
     
-</details>  
-
-<details>
-<summary>Gunvan locations</summary>
+    - Arcade safe
+    - Arcade business monitor
+    - Nightclub office
+    - Meth lab computer
+    - Cocaine lockup computer
+    - Weed farm computer
+    - Counterfeit cash factory computer
+    - Document forgery computer
+    - Gunrunning Bunker computer
+    - Hangar computer
   
-  - All 30 daily Gunvan locations
-
-</details>
-
-<details>
-<summary>Drug Dealer locations</summary>
+  </details>
   
-  - All 50 daily Drug Dealer locations
-
-</details>
+  <details>
+  <summary>CEO Office teleprots</summary>
+  
+    - Mazebank tower teleports
+    - Arcadius Business Center teleports
+    - Lom Bank teleports
+    - Mazebank west teleports
+  
+  </details>
+  
+  <details>
+  <summary>Underwater locations</summary>
+  
+    - Teleports for some neat underwater locations (SP + MP)
+  
+  </details>
+  
+  <details>
+  <summary>M14 locations</summary>
+    
+    - All 10 possible M14 event locations
+      
+  </details>  
+  
+  <details>
+  <summary>Gunvan locations</summary>
+    
+    - All 30 daily Gunvan locations
+  
+  </details>
+  
+  <details>
+  <summary>Drug Dealer locations</summary>
+    
+    - All 50 daily Drug Dealer locations
+  
+  </details>
 
 </details>
 
