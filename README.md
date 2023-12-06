@@ -127,13 +127,13 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
     - Automatically become CEO
     - Automatically become MC President
       
-  - Cooldown'S
+  - Cooldowns
     - Remove CEO/VIP work cooldown
     - Remove Dax Work cooldown
     - Remove Oribtal cannon cooldown Remove CEO Vehicle cooldown
     - Remove Kosatka Missile cooldown/range
       
-  - Multiplier's
+  - Multipliers
     - RP multiplier (1-30x)
     - AP multiplier (1-30x)
       
@@ -143,7 +143,7 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
       
   - Online services
     - Request service (M.O.C, Avenger, TerrorByte, Kosatka, Dinghy, Acid Lab, Acid Lab Bike, Ballistic equipment, Ammo drop)      
-  -Report viewer
+    -Report viewer
 
 </details>
 
