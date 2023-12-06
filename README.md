@@ -1,6 +1,10 @@
 # Houdinis Script
 
 **This is a lua script for the GTA 5 Mod-menu "Midnight" which requires BoolyScript to run**
+**Following assest have been used in the making of this script:** 
+GTA5 natives: https://alloc8or.re/gta5/nativedb/
+GTA5 statlist: https://gist.github.com/1337Nexo/945fe9724b9dd20d33e7afeabd2746dc
+Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 
 ## **Feature List for Houdinis Script v3.2.1**
 ## Lobby
