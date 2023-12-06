@@ -19,6 +19,7 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 
 <details>
 <summary>Lobby options</summary>
+  
 ### Lobby
   - Let's Sing (choose from 4 songs)
     
