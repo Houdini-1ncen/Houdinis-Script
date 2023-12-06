@@ -17,9 +17,6 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 
 # <Feature list>
 
-hey
-
-</Feature list>
 
 <summary>Feature List</summary>
   
