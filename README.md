@@ -30,6 +30,7 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
     - Choose a fully customizeable prefix 
     - Choose from 3 different response Chats
 </details> 
+
 <details>
 <summary>Vehicle options</summary>
   
@@ -40,6 +41,7 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
     
   - Remove Opressor mk2 cooldown
 </details>
+
 ### Teleportation
   - Bunker teleports
     - Zancudo Bunker
