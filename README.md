@@ -34,6 +34,7 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 
 <details>
 <summary>Vehicle options</summary>
+  
 ### Vehicle
   - No collision jet (Spawns a F-160 Raiju with no world collision)
     
@@ -42,6 +43,9 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
   - Remove Opressor mk2 cooldown
 </details>
 
+<details>
+<summary>Teleportation options</summary>
+  
 ### Teleportation
   - Bunker teleports
     - Zancudo Bunker
@@ -109,7 +113,12 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
       
   - Drug Dealer locations
     - All 50 daily Drug Dealer locations
-      
+
+</details>
+
+<details>
+<summary>Miscellaneous options</summary>
+  
 ### Misc
   - CEO/MC
     - Automatically become CEO
@@ -133,6 +142,11 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
     - Request service (M.O.C, Avenger, TerrorByte, Kosatka, Dinghy, Acid Lab, Acid Lab Bike, Ballistic equipment, Ammo drop)      
   -Report viewer
 
+</details>
+
+<details>
+<summary>Unlock options</summary>
+  
 ### Unlocks
   - Unlock collectibles (permanently and temporarily)
     - Unlock all
@@ -153,7 +167,12 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
   - Unlock Gunvan guns
     
   - Unlock shooting range rewards
-    
+
+</details>
+
+<details>
+<summary>Recovery options</summary>
+  
 ### Recovery
   - Nightclub Recovery
     - Teleport to Nightclub safe
@@ -191,4 +210,5 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
     - Select Story mode character (Michael, Franklin, Trevor, All) 
     - Select money amount (0 - 2147483646)
     - Select loop amount (1 - random)
-    - Money loop 
+    - Money loop
+</details>
