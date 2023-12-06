@@ -1,5 +1,6 @@
 # Houdinis Script
 
+**This is a lua script for the GTA 5 Mod-menu 'Midnight', it requires BoolyScript to run and offers the user the following features:**
 
 ## **Feature List for Houdinis Script 3.2.1**
 
