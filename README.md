@@ -17,7 +17,8 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 
 ## **Feature List for Houdinis Script v3.2.1**
 <details>
-<summary>### Lobby</summary>
+<summary>Lobby</summary>
+  ### Lobby
   - Let's Sing (choose from 4 songs)
     
   - Chat Commands
@@ -26,14 +27,13 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
     - Choose from 7 different premade prefixes 
     - Choose a fully customizeable prefix 
     - Choose from 3 different response Chats
-       
+</details>      
 ### Vehicle
   - No collision jet (Spawns a F-160 Raiju with no world collision)
     
   - Choose a custom map size while in jets
     
   - Remove Opressor mk2 cooldown
-</details>  
 ### Teleportation
   - Bunker teleports
     - Zancudo Bunker
