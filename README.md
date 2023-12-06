@@ -14,10 +14,7 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 **What started off as a personal issue of myself with a borken feature is what lead to all of this, I could've never imagined taht this script would reach such dimensios**
 
 **It all started with a script for just myself, but i quickly came to realize that many people were experiencing the same issues as I so i began to publish my little script which only consisted of a nightclub loop and some other small features. I began to expand the script slowly but surely, my focus was on recovery options hence the previous name: Houdinis Magic Recovery, ik pretty edgy but i liked it at that time. As the Script got bigger I changed the name and added alot more variety and expanded into other fields of GTA5 modding, I added teleportation options, new recovery methods, a miscellaneous tab, unlock options, various different lobby but mainly chat focused features and a vehicle tab. I was soon running out of ideas so i shifted my focus towards optimization and debugging.**
-
-<details>
-<summary>Feature List</summary>
-  
+ 
 ## **Feature List for Houdinis Script v3.2.1**
 
 <details>
@@ -221,5 +218,4 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
     - Select money amount (0 - 2147483646)
     - Select loop amount (1 - random)
     - Money loop
-</details>
 </details>
