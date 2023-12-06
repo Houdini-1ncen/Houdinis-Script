@@ -46,8 +46,10 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 
 <details>
 <summary>Teleportation</summary>
+
+  <details>
+  <summary>Bunker teleports</summary>
   
-  - Bunker teleports
     - Zancudo Bunker
     - Route 68 Bunker
     - Oilfields Bunker
@@ -59,7 +61,8 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
     - Route 1 Bunker
     - Farmhouse Bunker
     - Raton Canyon Bunker
-      
+  </details> 
+  
   - Facility teleprots
     - Paleto Bay Facility
     - Mount Gorod Facility
