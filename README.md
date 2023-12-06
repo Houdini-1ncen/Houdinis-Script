@@ -1,6 +1,9 @@
-# **Feature List for Houdinis Script 3.2.1**
+# Houdinis Script
 
-# Lobby
+
+## **Feature List for Houdinis Script 3.2.1**
+
+## Lobby
   - Let's Sing (choose from 4 songs)
     
   - Chat Commands
@@ -10,14 +13,14 @@
     - Choose a fully customizeable prefix 
     - Choose from 3 different response Chats
        
-# Vehicle
+## Vehicle
   - No collision jet (Spawns a F-160 Raiju with no world collision)
     
   - Choose a custom map size while in jets
     
   - Remove Opressor mk2 cooldown
     
-# Teleportation
+## Teleportation
   - Bunker teleports
     - Zancudo Bunker
     - Route 68 Bunker
@@ -85,7 +88,7 @@
   - Drug Dealer locations
     - All 50 daily Drug Dealer locations
       
-# Misc
+## Misc
   - CEO/MC
     - Automatically become CEO
     - Automatically become MC President
@@ -108,7 +111,7 @@
     - Request service (M.O.C, Avenger, TerrorByte, Kosatka, Dinghy, Acid Lab, Acid Lab Bike, Ballistic equipment, Ammo drop)      
   -Report viewer
 
-# Unlocks
+## Unlocks
   - Unlock collectibles (permanently and temporarily)
     - Unlock all
     - Action figure
@@ -129,7 +132,7 @@
     
   - Unlock shooting range rewards
     
-# Recovery
+## Recovery
   - Nightclub Recovery
     - Teleport to Nightclub safe
     - Max Nightclub popularity
