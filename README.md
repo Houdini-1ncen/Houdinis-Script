@@ -20,11 +20,11 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 <details>
 <summary>Lobby</summary>
   
-  - Let's Sing (choose from 4 songs)
+  - Let's sing (choose from 4 songs)
     
-  - Chat Commands
-    - Print Chat Commands to console
-    - New Chat commands
+  - Chat commands
+    - Print chat commands to console
+    - New chat commands
     - Choose from 7 different premade prefixes 
     - Choose a fully customizeable prefix 
     - Choose from 3 different response Chats
@@ -38,7 +38,7 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
     
   - Choose a custom map size while in jets
     
-  - Remove Opressor mk2 cooldown
+  - Remove opressor mk2 cooldown
     
 </details>
 
@@ -135,9 +135,10 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
       
   - Cooldowns
     - Remove CEO/VIP work cooldown
-    - Remove Dax Work cooldown
-    - Remove Oribtal cannon cooldown Remove CEO Vehicle cooldown
-    - Remove Kosatka Missile cooldown/range
+    - Remove dax work cooldown
+    - Remove oribtal cannon cooldown 
+    - Remove CEO vehicle cooldown
+    - Remove kosatka missile cooldown/range
       
   - Multipliers
     - RP multiplier (1-30x)
@@ -157,22 +158,24 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 <summary>Unlocks</summary>
   
   - Unlock collectibles (permanently and temporarily)
+    
     - Unlock all
     - Action figure
-    - LD Organics
-    - Playing Cards
-    - Signal Jammers
-    - Treasure Chests
+    - LD organics
+    - Playing cards
+    - Signal jammers
+    - Treasure chests
     - Snowmen
-    - Buried Stashes
-    - Hidden Caches
-    - Jack o Lantern
+    - Buried stashes
+    - Hidden caches
+    - Jack o lantern
     - Movie props
+   
   - Unlock vehicle trade prices
     
   - Unlock flight school gold medals
     
-  - Unlock Gunvan guns
+  - Unlock gunvan guns
     
   - Unlock shooting range rewards
 
