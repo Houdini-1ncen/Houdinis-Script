@@ -35,9 +35,8 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 </details>
 
 <details>
-<summary>Vehicle options</summary>
+<summary>Vehicle</summary>
   
-### Vehicle
   - No collision jet (Spawns a F-160 Raiju with no world collision)
     
   - Choose a custom map size while in jets
@@ -46,9 +45,8 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 </details>
 
 <details>
-<summary>Teleportation options</summary>
+<summary>Teleportation</summary>
   
-### Teleportation
   - Bunker teleports
     - Zancudo Bunker
     - Route 68 Bunker
@@ -119,9 +117,8 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 </details>
 
 <details>
-<summary>Miscellaneous options</summary>
+<summary>Misc</summary>
   
-### Misc
   - CEO/MC
     - Automatically become CEO
     - Automatically become MC President
@@ -147,9 +144,8 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 </details>
 
 <details>
-<summary>Unlock options</summary>
+<summary>Unlocks</summary>
   
-### Unlocks
   - Unlock collectibles (permanently and temporarily)
     - Unlock all
     - Action figure
@@ -173,9 +169,8 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 </details>
 
 <details>
-<summary>Recovery options</summary>
+<summary>Recovery</summary>
   
-### Recovery
   - Nightclub Recovery
     - Teleport to Nightclub safe
     - Max Nightclub popularity
