@@ -152,7 +152,7 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
       
   - Online services
     - Request service (M.O.C, Avenger, TerrorByte, Kosatka, Dinghy, Acid Lab, Acid Lab Bike, Ballistic equipment, Ammo drop)      
-    -Report viewer
+    - Report viewer
 
 </details>
 
