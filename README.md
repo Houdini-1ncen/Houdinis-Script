@@ -18,7 +18,8 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 ## **Feature List for Houdinis Script v3.2.1**
 
 <details>
-<summary>### Lobby</summary>
+<summary>Lobby options</summary>
+### Lobby
   - Let's Sing (choose from 4 songs)
     
   - Chat Commands
