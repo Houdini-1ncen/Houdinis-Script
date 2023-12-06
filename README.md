@@ -29,9 +29,11 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
     - Choose from 7 different premade prefixes 
     - Choose a fully customizeable prefix 
     - Choose from 3 different response Chats
+      
+</details>
 
+<details>
 <summary>Vehicle options</summary>
-  
 ### Vehicle
   - No collision jet (Spawns a F-160 Raiju with no world collision)
     
