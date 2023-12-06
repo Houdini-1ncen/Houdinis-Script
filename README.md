@@ -182,6 +182,7 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 <summary>Recovery</summary>
   
   - Nightclub Recovery
+    
     - Teleport to Nightclub safe
     - Max Nightclub popularity
     - Clear Nightclub earnings
@@ -191,20 +192,21 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
     - Reset Nightclub payout
       
   - Business Recovery
-    - Resupplly MC Businesses
-        - Resupply Counterfit Cash Factory
-        - Resupply Cocaine Lockup
-        - Resupply Meth Lab
-        - Resupply Weed Farm
-        - Resupply Document Forgery Office
-        - Resupply Gunrunning Bunker
+
+    - Resupply Counterfit Cash Factory
+    - Resupply Cocaine Lockup
+    - Resupply Meth Lab
+    - Resupply Weed Farm
+    - Resupply Document Forgery Office
+    - Resupply Gunrunning Bunker
           
     - Business Helper
-      - Nightclub Helper
-        - Notify you about your Nightclub
-        - Display and Update Nightclub info
+      
+       - Notify you about your Nightclub
+       - Display and Update Nightclub info
 
   - Warehouse Recovery
+    
     - Clear Warehouse sells
     - Clear Warehouse earnings
     - Bypass cargo buy cooldown
@@ -214,8 +216,10 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
     - Auto start cargo sell mission
       
   - Story Mode Recovery
+    
     - Select Story mode character (Michael, Franklin, Trevor, All) 
     - Select money amount (0 - 2147483646)
     - Select loop amount (1 - random)
     - Money loop
+      
 </details>
