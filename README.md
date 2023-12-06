@@ -2,7 +2,7 @@
 
 **This is a lua script for the GTA 5 Mod-menu "Midnight" which requires BoolyScript to run**
 
-**Following assest have been used in the making of this script:** 
+**Following assets have been used in the making of this script:** 
 
 GTA5 natives: https://alloc8or.re/gta5/nativedb/
 
