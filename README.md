@@ -227,3 +227,13 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
     - Money loop
       
 </details>
+
+<details>
+<summary>Settings</summary>
+
+  - Added feature list
+  - Changelogs tab
+  - Choose from 13 different menu themes
+
+</details>
+
