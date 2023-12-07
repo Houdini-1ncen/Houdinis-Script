@@ -24,11 +24,12 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
   - Let's sing (choose from 4 songs)
     
   - Chat commands
-    - Print chat commands to console
+
     - New chat commands
     - Choose from 7 different premade prefixes 
     - Choose a fully customizeable prefix 
     - Choose from 3 different response Chats
+    - Print / copy chat commands 
       
 </details>
 
@@ -223,7 +224,7 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
     
     - Select story mode character (Michael, Franklin, Trevor, All) 
     - Select money amount (0 - 2147483646)
-    - Select loop amount (1 - random)
+    - Select loop amount (1 - randomv2)
     - Money loop
       
 </details>
