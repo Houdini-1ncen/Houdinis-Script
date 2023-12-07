@@ -18,7 +18,7 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 
 ## **Feature List for Houdinis Script v3.2.1**
 
-**<details>
+<details>
 <summary>Lobby</summary>
   
   - Let's sing (choose from 4 songs)
@@ -226,4 +226,4 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
     - Select loop amount (1 - random)
     - Money loop
       
-</details>**
+</details>
