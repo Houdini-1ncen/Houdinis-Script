@@ -232,7 +232,9 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 <summary>Settings</summary>
 
   - Added feature list
+    
   - Changelogs tab
+    
   - Choose from 13 different menu themes
 
 </details>
