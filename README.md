@@ -232,7 +232,7 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
 <details>
 <summary>Settings</summary>
 
-  - Added feature list
+  - Feature list
     
   - Changelogs tab
     
