@@ -223,8 +223,8 @@ Midnight lua api: https://midnight-docs.vercel.app/gta/lua/classes/pointer
   - Story mode recovery
     
     - Select story mode character (Michael, Franklin, Trevor, All) 
-    - Money setter (0 - 2147483646)
-    - Money giver (0 - 2147483646)
+    - Money setter (0 - 2147483646$)
+    - Money giver (0 - 2147483646$)
     - Money loop (1 - randomv2)
       
 </details>
