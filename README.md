@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://ghrmt.vercel.app?font=Fira+Code&size=50&pause=1000&center=true&random=false&width=500&height=80&lines=Houdinis+Script" alt="Typing SVG" /></a>
 
+# Houdinis Script 
+
 **This is a lua script for the GTA 5 Mod-menu "Midnight" which requires BoolyScript to run**
 
 **Following assets have been used in the making of this script:** 
